@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trial04</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buy">BuyActivity</string>
+    <string-array name="product_quality">
+        <item>Good</item>
+        <item>Avg</item>
+        <item>Bad</item>
+        <item>OK</item>
+        <item>No Comments</item>
+    </string-array>
+</resources>
